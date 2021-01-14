@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+    font-size: 16px;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    color: #2e7ad3;
+}
+h2 {
+    font-size: 32px;
+    color: #104c90;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.text-differnt-color {
+    color:    #ff8000;
+   }
+
+a:link {
+    font-weight: bold;
+}
+a:hover, a:focus {
+    color: cadetblue;
+}
+
+main {
+    width: 450px;
+    margin: 0 auto;
+    padding: 10px 50px;
+    background-color: #f1f1f1;
+    
+}
