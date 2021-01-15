@@ -1,0 +1,55 @@
+
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Noto Serif', serif; */
+}
+h1, h2, p {
+    margin-top: 0;
+}
+
+header {
+    background: yellow;
+}
+header, section {
+    padding: 50px;
+}
+.section-one a {
+    color: yellow;
+}
+.section-one {
+    background: black;
+    color: white;
+}
+
+.section-one .btn{
+    background: yellow;
+    color: black;
+    padding: 10px 30px;
+    display: inline-block;
+    /* margin-top: 20px; */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.section-two .btn{
+    background: black;
+    color: white;
+    padding: 10px 30px;
+    display: inline-block;
+    /* margin-top: 20px; */
+    text-decoration: none;
+    font-weight: bold;
+}
+.section-two a{
+    color: black;
+}
+
+.section-one .btn:hover{
+    background-color: white;
+}
+
+.section-two .btn:hover{
+    background-color: yellow;
+    color: black;
+}

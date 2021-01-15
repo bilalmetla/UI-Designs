@@ -22,6 +22,9 @@ h2 {
 
 a:link {
     font-weight: bold;
+    background-color: yellow;
+    padding: 20px;
+    display: inline-block;
 }
 a:hover, a:focus {
     color: cadetblue;
